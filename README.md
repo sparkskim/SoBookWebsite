@@ -16,4 +16,4 @@ I spent a few days creating this website. However, I recycled a lot of codes I u
 🔹Multiple-page websites
 
 ### Project page
-https://sparkskim.github.io/SoBookWebsite/
+https://sparkskim.github.io/SoBookWebsite/# sobookWebsite
